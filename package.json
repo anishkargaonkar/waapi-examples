@@ -1,0 +1,23 @@
+{
+  "name": "mot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "motion": "^10.10.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.14.43",
+    "events": "^3.3.0",
+    "parcel": "^2.6.0",
+    "process": "^0.11.10"
+  }
+}
